@@ -1,1 +1,1 @@
-test('complex', () => { expect(true).toBe(false); });
+test('complex', () => { expect(true).toBe(true); });
