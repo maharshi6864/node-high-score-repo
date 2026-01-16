@@ -1,0 +1,16 @@
+{
+    "name": "node-high-score-repo",
+    "version": "1.0.0",
+    "description": "A high scoring repo",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "jest": "^29.5.0"
+    },
+    "license": "MIT"
+}
