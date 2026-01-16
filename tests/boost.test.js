@@ -1,1 +1,3 @@
-test('boost', () => { expect(true).toBe(true); });
+test('boost works', () => {
+    expect(true).toBe(true);
+});
