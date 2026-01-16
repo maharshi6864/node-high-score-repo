@@ -1,0 +1,8 @@
+{
+    "name": "node-high-score-repo",
+    "public": true,
+    "description": "Repo for high score evaluation",
+    "has_issues": true,
+    "has_projects": true,
+    "has_wiki": true
+}
