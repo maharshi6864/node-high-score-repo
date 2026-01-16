@@ -1,0 +1,1 @@
+module.exports = { helper2: () => true };
